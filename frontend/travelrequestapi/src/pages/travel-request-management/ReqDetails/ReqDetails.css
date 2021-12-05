@@ -1,0 +1,11 @@
+.req-details{
+    position: relative;
+    left: auto;
+    top: 20px;
+}
+
+span{
+    padding-left: 10px;
+    font-size: large;
+    font-style: italic;
+}
